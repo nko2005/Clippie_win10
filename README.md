@@ -16,6 +16,8 @@ Steps for installation:
 
 1- Download the files and place them in a folder 
 	Repo link For windows: https://github.com/nko2005/Clippie_win10
+	
+	
 	Repo link For Mac:https://github.com/danysigha/Clippie_macos
 
 2-Access the folder in the command prompt/terminal and create a virtual environment.
@@ -42,8 +44,11 @@ First navigate to the directory of the virtual environment (the folder you creat
 4-Install the following  dependencies in the folder you created  using pip in the terminal/command prompt:
 
 >pip install Pyqt5
+
 >pip install pillow 
+
 >pip install validators
+
 >pip install bcrypt
 
 
