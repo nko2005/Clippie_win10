@@ -8,6 +8,8 @@ The general purpose of the project is to:
 •	Keep record of potentially important and sensitive information of users 
 •	Provide a hassle-free way to swiftly store information
 
+#Project Implemented by: Dany Sigha, Tina Chen, Nawaf Khaled Otaishan, Min Jee Lisa Moon
+
 
 
 Steps for installation:
