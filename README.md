@@ -8,7 +8,7 @@ The general purpose of the project is to:
 •	Keep record of potentially important and sensitive information of users 
 •	Provide a hassle-free way to swiftly store information
 
-#Project Implemented by: Dany Sigha, Tina Chen, Nawaf Khaled Otaishan, Min Jee Lisa Moon
+####Project Implemented by: Dany Sigha, Tina Chen, Nawaf Khaled Otaishan, Min Jee Lisa Moon####
 
 
 
@@ -16,7 +16,7 @@ Steps for installation:
 
 1- Download the files and place them in a folder 
 	Repo link For windows: https://github.com/nko2005/Clippie_win10
-	Repo link For Mac:
+	Repo link For Mac:https://github.com/danysigha/Clippie_macos
 
 2-Access the folder in the command prompt/terminal and create a virtual environment.
 
