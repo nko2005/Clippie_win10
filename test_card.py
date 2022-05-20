@@ -1,5 +1,5 @@
 from card import *
-
+import uuid
 import unittest
 
 class TestCard(unittest.TestCase):
@@ -8,9 +8,9 @@ class TestCard(unittest.TestCase):
     def setUp(self):
         """initalizes card objects"""
         
-        self.card1 = Card("text","hello")      
-        self.card2 = Card("hyperlink","www.google.com")
-        self.card3 = Card("image", "JGkemqn&302832Jfkm")
+        self.card1 = Card(str(uuid.uuid4()),"hello", "Text")      
+        self.card2 = Card(str(uuid.uuid4()),"www.google.com", "URL")
+        self.card3 = Card(str(uuid.uuid4()), "JGkemqn&302832Jfkm", "Image")
  
     
     def test_ID(self):
